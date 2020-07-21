@@ -1,0 +1,26 @@
+site_name: B Horn
+site_url: https://hack.athon.uk/
+site_description: |
+  A wiki for helping hackers get into hackathons and organise them!
+
+
+theme:
+  name: material
+  palette:
+    scheme: 'light'
+    primary: 'pink'
+    accent: 'pink'
+  icon:
+    logo: fontawesome/solid/robot
+    repo: fontawesome/brands/git-alt
+
+  features:
+    - tabs
+    - instant
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+  - minify:
+      minify_html: true
