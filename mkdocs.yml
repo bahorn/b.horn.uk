@@ -1,15 +1,20 @@
 site_name: B Horn
-site_url: https://hack.athon.uk/
+site_url: https://b.horn.uk/
 site_description: |
-  A wiki for helping hackers get into hackathons and organise them!
+  I'm a Software developer with an interest in remote sensing, infosec and embedded development.
 
+nav:
+  - Home: 'index.md'
+    #- Projects:
+    #- 'projects/index.md'
+  - About:
+    - 'about/index.md'
 
 theme:
   name: material
   palette:
-    scheme: 'light'
-    primary: 'pink'
-    accent: 'pink'
+    primary: 'purple'
+    accent: 'purple'
   icon:
     logo: fontawesome/solid/robot
     repo: fontawesome/brands/git-alt
@@ -17,6 +22,20 @@ theme:
   features:
     - tabs
     - instant
+
+  custom_dir: 'theme'
+
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/bahorn
+      alt: GitHub
+    - icon: material/gitlab
+      link: https://gitlab.com/bahorn
+      alt: GitLab
+    - icon: material/code-brackets
+      link: https://devpost.com/bahorn
+      alt: Devpost
 
 plugins:
   - search

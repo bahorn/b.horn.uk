@@ -1,0 +1,50 @@
+{% extends "overrides/main.html" %}
+
+<!-- Render hero under tabs -->
+{% block tabs %}
+{{ super() }}
+
+
+<link href="/static/css/homepage.css" rel="stylesheet">
+
+<section class="tx-container">
+    <div class="md-grid md-typeset">
+        <div class="tx-hero">
+
+            <!-- Hero content -->
+            <div class="tx-hero__content">
+                <h1>Hoi!</h1>
+                <p>{{ config.site_description }}</p>
+                <!--<a
+                    href="/projects"
+                    title="Projects"
+                    class="md-button md-button--primary"
+                    >
+                    Projects
+                    </a>-->
+                    <a
+                        href="/about"
+                        title="About Me"
+                        class="md-button md-button-primary"
+                        >
+                        About Me
+                    </a>
+            </div>
+        </div>
+        <br />
+</section>
+
+<section class="tx-content">
+    <div class="md-grid md-typeset">
+        {% block content %}
+        {% block source %}
+        {% if page and page.meta and page.meta.source %}
+        {% include "partials/source-link.html" %}
+        {% endif %}
+        {% endblock %}
+        {{ page.content }}
+        {% endblock %}
+    </div>
+</section>
+
+{% endblock %}
