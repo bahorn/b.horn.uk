@@ -5,8 +5,9 @@ site_description: |
 
 nav:
   - Home: 'index.md'
-    #- Projects:
-    #- 'projects/index.md'
+  - Projects:
+    - Javascript Art:
+      - 'projects/jsdemos/2d-sdf.md'
   - About:
     - 'about/index.md'
 
@@ -43,3 +44,9 @@ plugins:
       type: date
   - minify:
       minify_html: true
+
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums: true
