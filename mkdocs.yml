@@ -46,7 +46,15 @@ plugins:
       minify_html: true
 
 markdown_extensions:
-  - pymdownx.inlinehilite
   - pymdownx.highlight:
-      use_pygments: true
+      use_pygments: false
       linenums: true
+      linenums_style: pymdownx.inline
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+  - javascripts/config.js
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css
+
+

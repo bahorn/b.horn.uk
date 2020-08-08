@@ -6,7 +6,8 @@
 
 ### Code
 
-```html
+``` html
+
 <canvas id="c">
 <script>
     c=document.getElementById("c").getContext("2d") // Obtain a canvas context
@@ -32,6 +33,7 @@
     } , p);
 </script>
 </canvas>
+
 ```
 
 
