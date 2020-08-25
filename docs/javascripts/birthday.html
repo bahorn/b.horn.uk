@@ -1,0 +1,85 @@
+ <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"> 
+
+
+<style>
+body {
+    background: black;
+}
+
+    * { margin: 0; padding: 0;}
+
+body, html { height:100%; }
+
+#c {
+    position:absolute;
+    width:100%;
+    height:100%;
+}
+</style>
+<canvas id="c" width=640 height=480 style="background: black"/>
+<script>
+    text = ['happy birthday mol!','from b','<3'];
+    pix = 15
+    r = Math.PI/2
+    t = 0
+    c = document.getElementById("c");
+    w = c.width = window.innerWidth;
+    w = c.width = w/2
+    w = w/pix;
+    h = c.height = window.innerHeight;
+    h = c.height = h/2
+    h = h/pix;
+    c = c.getContext("2d");
+    font_width = 1000
+    for (l = 0; l < text.length; l++) {
+        font_width = Math.min((w*pix - w*2)/text[l].length, font_width)
+    }
+
+    c.textAlign = "left"
+    dist = (x, y) => {
+        return Math.max(
+            Math.sqrt(Math.abs(
+                (Math.sin(t)* ((y-h)*y)) -
+                (Math.cos(t) * ((x-w)*x))
+            )) % 20,
+            Math.abs(
+                -1.25*(
+                    Math.sqrt(
+                        Math.pow(x-w/2,2)
+                        + Math.pow(y-h/2, 2)
+                    )
+                    - pix
+                )
+            )
+        ) 
+    }
+    setInterval(e=>{
+        t+=0.01
+        c.clearRect(0,0,w*pix,h*pix);
+
+        alpha = '25'
+        for (x = 0; x<w; x++) {
+            for (y = 0; y<h; y++) {
+                d = dist(x, y);
+                for (i = 0; i < 3; i++) {
+                    alpha = '25'
+                    c.fillStyle = ['#ff0000'+alpha, '#00ff00'+alpha, '#0000ff'+alpha][i];
+                    c.fillRect(d*0.5*Math.cos(Math.sin(t)+ i*r)+x*pix, 0.5*d*Math.sin(Math.sin(t)+ i*r)+y*pix, d/2, d)
+                }
+            }
+        }
+
+        alpha='7f';
+        for (l = 0; l < text.length; l++) {
+            c.fillStyle = '#ffffff7f';
+            c.font = `${font_width}px 'Press Start 2P'`;
+            for (i = 0; i < text[l].length; i++) {
+                alpha='7f';
+                for(k = 0; k < 3; k++) {
+                    c.fillStyle = ['#0000ff'+alpha, '#00ff00'+alpha, '#ff0000'+alpha][k];
+                    c.fillText(text[l][i], (w*pix)/2 - (font_width*(text[l].length))/2 + font_width*i + 3*Math.cos(k-t), (h*pix)/2+((h*pix)/6)*(l+1-text.length/2)+7.5*Math.sin(t*2+i)+3*Math.sin(k+t));
+                }
+            }
+        }
+    }, 10);
+</script>
