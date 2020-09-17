@@ -5,6 +5,8 @@ site_description: |
 
 nav:
   - Home: 'index.md'
+  - Notes:
+    - 'notes/index.md'
   - Projects:
     - Javascript Art:
       - 'projects/jsdemos/2d-sdf.md'
