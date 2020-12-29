@@ -22,7 +22,7 @@ projects like:
 * [Using RF interference to make music](https://devpost.com/software/dj-whitenoize)
 * [Internet Connected Trebuchet](https://devpost.com/software/internet-of-flings)
 * [Dinorun controlled by Applause](https://devpost.com/software/applause-review)
-* [Snake as a UEFI Shelll Command](https://devpost.com/software/uefi-worm)
+* [Snake as a UEFI Shell Command](https://devpost.com/software/uefi-worm)
 
 I was one of the co-founders of CovHackSoc, Coventry Universities hackathon
 society, president from it's founding in 2017 until 2019.
