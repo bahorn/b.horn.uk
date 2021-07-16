@@ -4,7 +4,7 @@
 
 ### MSc Computing Science at Utrecht University (September 2020 onwards)
 
-I am currently pursuing my Masters in Computing Science at Utrecht University.
+I am currently in the second year of my Masters in Computing Science at Utrecht University.
 
 ### First Class Honours BSc Computer Science at Coventry University (2016-2020)
 
