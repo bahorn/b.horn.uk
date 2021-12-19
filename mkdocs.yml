@@ -5,13 +5,11 @@ site_description: |
 
 nav:
   - Home: 'index.md'
-  - Notes:
-    - 'notes/index.md'
+  - About:
+    - 'about/index.md'
   - Projects:
     - Javascript Art:
       - 'projects/jsdemos/2d-sdf.md'
-  - About:
-    - 'about/index.md'
 
 theme:
   name: material
