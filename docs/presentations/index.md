@@ -7,6 +7,7 @@ Talk was given at CovHackSoc in early 2020, based on work I did over the summer 
 Covers some basic hardware hacking, where I bought a cheap IP camera off Amazon and how I got code executation on it.
 
 Talk covers:
+
 * Discovering the debug pads.
 * Hooking up a UART adapter to talk to the bootloader.
 * Tricked the u-boot based bootloader into dumping itself.
