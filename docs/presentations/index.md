@@ -12,6 +12,6 @@ Talk covers:
 * Hooking up a UART adapter to talk to the bootloader.
 * Tricked the u-boot based bootloader into dumping itself.
 * Some some firmware analysis to discover how to trick it to load a debug script and get a shell.
-* Mounted and using `pivot_root` to get my own environment on it.
+* Mounting a new rootfs and using `pivot_root` to get my own environment on it.
 
 Interesting as I couldn't use the usual trick of swapping the value of `init` in the kernel arguments, hence the use of the debug script trick.
