@@ -1,10 +1,15 @@
 # About Me
 
+## Hiring
+
+Open to full time positions in The Netherlands (or potentially remote) from the start of 2023.
+CV provided on request, please contact me at `b AT horn DOT uk` from a corporate email if you are interested.
+
 ## Education
 
 ### MSc Computing Science at Utrecht University (September 2020 onwards)
 
-I am currently in the second year of my Masters in Computing Science at Utrecht University.
+I am currently working on my Masters Thesis focused on the Parameterized Complexity of Defensive Alliances, to complete my Masters in Computing Science at Utrecht University.
 
 ### First Class Honours BSc Computer Science at Coventry University (2016-2020)
 
@@ -36,7 +41,6 @@ within the hacker community"
 * Lead Organiser for [CovHack 2019](https://web.archive.org/web/20190322160452/https://covhack.org/)
 * Tech Lead for [CovHack2020](https://web.archive.org/web/20200301172154/https://covhack.org/)
 * Tech Lead for [HackQuarantine](https://hackquarantine.com)
-
 
 ## Travel
 
