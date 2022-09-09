@@ -9,7 +9,7 @@ CV provided on request, please contact me at `b AT horn DOT uk` from a corporate
 
 ### MSc Computing Science at Utrecht University (September 2020 onwards)
 
-I am currently working on my Masters Thesis focused on the Parameterized Complexity of Defensive Alliances, to complete my Masters in Computing Science at Utrecht University.
+I am currently working on my Masters Thesis focused on the Parameterized Complexity of Defensive Alliances.
 
 ### First Class Honours BSc Computer Science at Coventry University (2016-2020)
 
