@@ -2,7 +2,7 @@
 
 ## Hiring
 
-Open to full time positions in The Netherlands (or potentially remote) from the start of 2023.
+Open to full time positions in The Netherlands (or potentially remote).
 CV provided on request, please contact me at `b AT horn DOT uk` from a corporate email if you are interested.
 
 ## Education
@@ -44,8 +44,8 @@ within the hacker community"
 
 ## Travel
 
-I've travelled to over 30 countries, doing things such as:
+I've travelled to over 40 countries, doing things such as:
 
-* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan) and the Southern Caucasus (Azerbaijan, Georgia and Armenia).
+* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan), the Southern Caucasus (Azerbaijan, Georgia and Armenia) and Ghana.
 * Doing a Internship based around remote sensing in Cape Town, South Africa
 * Cultural Exchanges in Oslo (Norway), Helsinki (Finland) and Guangzhou (China)
