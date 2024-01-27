@@ -5,13 +5,8 @@ site_description: |
 
 nav:
   - Home: 'index.md'
-  - About:
-    - 'about/index.md'
   - Presentations:
     - 'presentations/index.md'
-  - Projects:
-    - Javascript Art:
-      - 'projects/jsdemos/2d-sdf.md'
 
 theme:
   name: material
