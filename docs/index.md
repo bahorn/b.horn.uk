@@ -4,7 +4,7 @@ I'm a software engineer interested in infosec and systems software.
 
 ## Education
 
-### MSc Computing Science at Utrecht University (2020-2022)
+### MSc Computing Science at Utrecht University (2020-2023)
 
 My Masters Thesis focused on the [Parameterized Complexity](https://en.wikipedia.org/wiki/Parameterized_complexity) of Defensive Alliances.
 
