@@ -12,6 +12,18 @@ My Masters Thesis focused on the [Parameterized Complexity](https://en.wikipedia
 
 Thesis was on object detection in Satellite imagery, focused on the Sentinel 2 dataset.
 
+## Publications
+
+* ["Adapting SHELFs to make LKM-less Kernel Modules" in tmp.0ut #4](https://tmpout.sh/4/5.html)
+* ["Misusing XDP to make a KV Store" in 'Paged Out! #5' (pg. 20)](https://pagedout.institute/download/PagedOut_005.pdf)
+
+## Security
+
+I have found security flaws in:
+* [GRUB2](https://blog.b.horn.uk/posts/grabit/), which resulted in a bypass for UEFI Secure Boot.
+* [TP-Link EAP Access Points](https://github.com/bahorn/security/tree/main/TP-Link-EAP-2022-10-16)
+* [Terramaster NASs](https://github.com/bahorn/security/blob/main/Terramaster-TOS-2021-03-27/TOS-rsync.md)
+
 ## Hackathons
 
 I founded [hack.athon.uk](https://hack.athon.uk), a website dedicated to helping
@@ -41,13 +53,13 @@ within the hacker community"
 
 ## Travel
 
-I've travelled to over 40 countries, doing things such as:
+I've travelled to over 50 countries, doing things such as:
 
-* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan), the Southern Caucasus (Azerbaijan, Georgia and Armenia) and Ghana.
+* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan), the Southern Caucasus (Azerbaijan, Georgia and Armenia), South East Asia (including Malaysian Borneo and Brunei) and Ghana.
 * Doing a Internship based around remote sensing in Cape Town, South Africa
 * Cultural Exchanges in Oslo (Norway), Helsinki (Finland) and Guangzhou (China)
 
 ## Hiring
 
-Open to full time positions in The Netherlands (or potentially remote).
+Open to full time positions in The Netherlands or remote.
 CV provided on request, please contact me at `b AT horn DOT uk` from a corporate email if you are interested.
