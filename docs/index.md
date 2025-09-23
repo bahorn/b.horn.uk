@@ -20,6 +20,7 @@ Thesis was on object detection in Satellite imagery, focused on the Sentinel 2 d
 ## Security
 
 I have found security flaws in:
+
 * [GRUB2](https://blog.b.horn.uk/posts/grabit/), which resulted in a bypass for UEFI Secure Boot.
 * [TP-Link EAP Access Points](https://github.com/bahorn/security/tree/main/TP-Link-EAP-2022-10-16)
 * [Terramaster NASs](https://github.com/bahorn/security/blob/main/Terramaster-TOS-2021-03-27/TOS-rsync.md)
