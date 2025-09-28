@@ -6,7 +6,7 @@ I'm a software engineer interested in infosec and systems software.
 
 ### MSc Computing Science at Utrecht University (2020-2023)
 
-My Masters Thesis focused on the [Parameterized Complexity](https://en.wikipedia.org/wiki/Parameterized_complexity) of Defensive Alliances.
+My Masters Thesis focused on the [Parameterized Complexity](https://en.wikipedia.org/wiki/Parameterized_complexity) of Defensive Alliances (a graph theory problem about finding subsets of a graph where the vertices have more neighbours in the subset than outside of it).
 
 ### First Class Honours BSc Computer Science at Coventry University (2016-2020)
 
