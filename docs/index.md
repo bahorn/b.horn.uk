@@ -56,7 +56,7 @@ within the hacker community"
 
 I've travelled to over 50 countries, doing things such as:
 
-* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan), the Southern Caucasus (Azerbaijan, Georgia and Armenia), South East Asia (including Malaysian Borneo and Brunei) and Ghana.
+* Backpacking through Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan), the Southern Caucasus (Azerbaijan, Georgia and Armenia), South East Asia (including Malaysian Borneo, Brunei and Timor-Leste) and Ghana.
 * Doing a Internship based around remote sensing in Cape Town, South Africa
 * Cultural Exchanges in Oslo (Norway), Helsinki (Finland) and Guangzhou (China)
 
