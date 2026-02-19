@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bahorn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://b.horn.uk
+  * I am bahorn (https://keybase.io/bahorn) on keybase.
+  * I have a public key ASC87F61LyBqpeJc_bcS0FM2ZulOhI8U1VPCJiBTQ-uF5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bb8c4f87c5e591f3605ec09deda84ff094a55f12d28bd54b12b6bd0857d4a7640a",
+      "host": "keybase.io",
+      "kid": "0120bcec5eb52f206aa5e25cfdb712d0533666e94e848f14d553c226205343eb85e50a",
+      "uid": "348c05f10e50c9813d688f85c45b7919",
+      "username": "bahorn"
+    },
+    "merkle_root": {
+      "ctime": 1716498415,
+      "hash": "769fde43023ce299673ff0d74f684cb678babc8625208d8cd30c721018c5d559268499c9bc872d17fe440f9f00270977879353ea6cfb8984b11e5eb221331494",
+      "hash_meta": "dc0aff4d01cf8bdd04ab8d871c40bfa0cb31d3c147d5adbc6c820781281e5c5b",
+      "seqno": 25753641
+    },
+    "service": {
+      "entropy": "ve4izkuMJkx7lqcFuXGLuGlW",
+      "hostname": "b.horn.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1716498477,
+  "expire_in": 504576000,
+  "prev": "ce651318621cf74db25e0052e7729ce890ea5d056138f70cf42e7733cc9ea401",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvOxetS8gaqXiXP23EtBTNmbpToSPFNVTwiYgU0PrheUKp3BheWxvYWTESpcCCMQgzmUTGGIc902yXgBS53Kc6JDqXQVhOPcM9C53M8yepAHEIIhvmY56Xpu5nkbDUHhDjSZfdSDIz2uzOvT03PfDQhiQAgHCo3NpZ8RA8XPgxFaudgljy9RyGKbhXa2nS32+n2hKoQRho/hAt2WHF/LU/sJ4d7/SEUybrvORptCwXKBy4KaqmMizRXRXBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDLYMbdEJQX5dvxpajVaqwTPnGv6S0axwQYs3/22lKAio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bahorn
+
+==================================================================
